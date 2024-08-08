@@ -2,7 +2,7 @@
 
 Meu nome é MIguel Volpi
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -14,3 +14,6 @@ Meu nome é MIguel Volpi
 00001117055863sp@al.educacao.sp.gov.br
 
 miguelvolpi3@gmail.com
+
+
+![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
